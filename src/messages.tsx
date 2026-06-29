@@ -244,7 +244,7 @@ export const questions: FullQuestion[] = [
         ],
         attemptsBeforeHint: 2,
         hint: [
-            ["[HINT] The distance between each step is expanding at a constant, even rate.", "hint", 0, 2000],
+            ["[HINT] The distance between each step is expanding at a constant, even rate.", "hint"],
         ],
         attemptslockout: 3,
     },
@@ -298,7 +298,7 @@ export const questions: FullQuestion[] = [
         ],
         attemptsBeforeHint: 2,
         hint: [
-            ["[HINT] Stop looking for an alphabet pattern. You've known this sequence since kindergarten.", "hint", 0, 2000],
+            ["[HINT] Stop looking for an alphabet pattern. You've known this sequence since kindergarten.", "hint"],
         ],
         attemptslockout: 4,
     },
@@ -324,7 +324,7 @@ export const questions: FullQuestion[] = [
         ],
         attemptsBeforeHint: 1,
         hint: [
-            ["[HINT] Scaling the workforce and the workload at the exact same ratio leaves the clock untouched.", "hint", 0, 2000],
+            ["[HINT] Scaling the workforce and the workload at the exact same ratio leaves the clock untouched.", "hint"],
         ],
         attemptslockout: 5,
     }
